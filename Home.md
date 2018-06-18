@@ -22,7 +22,17 @@ You just have to click on the blue text to enter a page.
 
 ![](https://i.imgur.com/hfINOWw.png)
 
-Blue text inside of a post will either take you to a page or it will take you to a download for a necessary part of a tutorial. **_(Don't worry all of the files you download are from official websites and contain no malicious programs)_**
+Blue text inside of a post will either take you to a page or it will take you to a download for a necessary part of a tutorial. **`(Don't worry all of the files you download are from official websites and contain no malicious programs)`**
+
+![](https://i.imgur.com/PyL0rSG.png)
+
+If you have a fix for an issue we haven't covered or have a easier fix please contact us using Discord:
+
+* _**Lapis#2750**_
+
+* _**PolarKC#3258**_
+
+**`(WARNING: If you wish to get help either read through the wiki or go to the Realm Royale Discord Server and ask for help in #help. All Direct Messages requesting help will be ignored)`**
 
 ![](https://i.imgur.com/7a62T5W.png)
 

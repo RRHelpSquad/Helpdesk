@@ -1,7 +1,7 @@
 * [Realm Royale Requirements](https://github.com/RRHelpSquad/Helpdesk/wiki/Realm-Royale-Requirements)
 
 * [Before Asking For Help](https://github.com/RRHelpSquad/Helpdesk/wiki/Before-Asking-For-Help)
-   * [Restarting The PC](https://github.com/RRHelpSquad/Helpdesk/wiki/Restarting-the-PC)
+   * [Restarting the PC](https://github.com/RRHelpSquad/Helpdesk/wiki/Restart-the-PC)
    * [Verify the Game Files](https://github.com/RRHelpSquad/Helpdesk/wiki/Verify-the-Game-Files)
    * [Repair EasyAntiCheat](https://github.com/RRHelpSquad/Helpdesk/wiki/Repair-EasyAntiCheat)
    * [Update Windows](https://github.com/RRHelpSquad/Helpdesk/wiki/Update-Windows)

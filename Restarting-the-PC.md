@@ -1,0 +1,1 @@
+Restarting your PC can solve a few issues, so restart now before carrying on.

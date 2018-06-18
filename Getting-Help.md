@@ -8,8 +8,8 @@ If you are still having issues after doing the known troubleshooting steps you m
 * **Logs**
   * **Automatic**
     * Download: [https://github.com/RRHelpSquad/InfoGather/releases](https://github.com/RRHelpSquad/InfoGather/releases)
-    * Run InfoGather
-    * Send .zip file
+    * Run InfoGather.exe
+    * Send result.zip file /
    * **Manual**
     * Log File(Documents\My Games\paladinsroyale\RealmGame\Logs)
     * EasyAntiCheat Log File(%appdata%/EasyAntiCheat)

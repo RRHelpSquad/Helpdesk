@@ -1,5 +1,5 @@
 
-Sometimes corruptions on your hard drive can cause games/programs not to work as intended, do the following steps to fix the issue
+Sometimes, corruptions on your hard drive can cause games/programs to not work as intended, do the following steps to fix the issue:
 
 **1. Open the Start Menu (pressing the Windows logo in bottom left)**
 

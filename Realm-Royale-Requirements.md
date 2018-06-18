@@ -13,3 +13,5 @@
   _Atleast 5 GB available space_
 * ### Sound Card
   _DirectX compatible sound card_
+
+_**Those requirements outline the recommended minimum requirements to play realm royale at playable FPS.**_

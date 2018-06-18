@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Ui4YZYI.png)
+![](https://i.imgur.com/UE6W8Y0.png)
 
 Welcome to the Unofficial Realm Royale Helpdesk!
 

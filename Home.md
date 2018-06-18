@@ -24,4 +24,22 @@ You just have to click on the blue text to enter a page.
 
 Blue text inside of a post will either take you to a page or it will take you to a download for a necessary part of a tutorial. **_(Don't worry all of the files you download are from official websites and contain no malicious programs)_**
 
+![](https://i.imgur.com/7a62T5W.png)
+
+* _**Bultz - Original Writer**_
+
+* _**Lapis - Graphic Designer, Writer**_
+
+* _**Powerad23 - “netsh winsock reset” solution for unable to connect to Realm Royale server.**_
+
+* _**Pyro - Low Spec Config**_
+
+* _**PWCHammel - Finding out how to change key bindings outside of the game**_
+
+* _**MissingNo - Helping with “Game Security Violation”, “My Game Crashes after the Hi-Rez Logo” and “Change Keybinds outside of the game”**_
+
+* _**PolarKC - Untrusted System File**_
+
+
+
 

@@ -14,3 +14,4 @@
    * [Running the Game in DirectX 9 Mode](https://github.com/RRHelpSquad/Helpdesk/wiki/Running-the-Game-in-DirectX-9-Mode)
 * [Getting Help](https://github.com/RRHelpSquad/Helpdesk/wiki/Getting-Help)
 * [Known Issues](https://github.com/RRHelpSquad/Helpdesk/wiki/Known-Issues)
+   * [Black Screen on Launch](https://github.com/RRHelpSquad/Helpdesk/wiki/Black-Screen-on-launch)

@@ -32,6 +32,15 @@ If you have a fix for an issue we haven't covered or have a easier fix please co
 
 * _**PolarKC#3258**_
 
+* _**Bultz#1337**_
+
+Send Friend Request
+User Info
+Mutual Servers
+Mutual Friends
+NOTE
+
+
 **`(WARNING: If you wish to get help either read through the wiki or go to the Realm Royale Discord Server and ask for help in #help. All Direct Messages requesting help will be ignored)`**
 
 ![](https://i.imgur.com/7a62T5W.png)

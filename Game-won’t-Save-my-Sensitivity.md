@@ -32,3 +32,5 @@ _8.4. Hit Apply_
 
 
 _**After you’ve done the steps above the game won’t be able to save new config to this file, if you wish the game to save new config to this file. Make sure you remove the tick “Read-only” which you ticked in step 8.**_
+
+**`If the above doesn’t work please follow the guideline for [getting help here](https://github.com/RRHelpSquad/Helpdesk/wiki/Getting-Help).`**

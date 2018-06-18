@@ -1,1 +1,1 @@
-Welcome to the RR Helpdesk wiki!
+![](https://i.imgur.com/Ui4YZYI.png)

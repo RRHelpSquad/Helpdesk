@@ -23,8 +23,8 @@
    * [Game Freezes](https://github.com/RRHelpSquad/Helpdesk/wiki/Game-Freezes)
    * [Untrusted System File](https://github.com/RRHelpSquad/Helpdesk/wiki/Untrusted-System-File)
 
-*[F.A.Q.](https://github.com/RRHelpSquad/Helpdesk/wiki/F.A.Q.)
-   *[How can i see my FPS?](https://github.com/RRHelpSquad/Helpdesk/wiki/How-can-i-see-my-FPS%3F)
-   *[How can i change my Language?](https://github.com/RRHelpSquad/Helpdesk/wiki/How-can-i-change-my-Language%3F)
-   *[Low Specification Config](https://github.com/RRHelpSquad/Helpdesk/wiki/Low-Specification-Config)
-   *[Change Keybinds Outside of the Game](https://github.com/RRHelpSquad/Helpdesk/wiki/Change-Keybinds-Outside-of-the-Game)
+* [F.A.Q.](https://github.com/RRHelpSquad/Helpdesk/wiki/F.A.Q.)
+   * [How can i see my FPS?](https://github.com/RRHelpSquad/Helpdesk/wiki/How-can-i-see-my-FPS%3F)
+   * [How can i change my Language?](https://github.com/RRHelpSquad/Helpdesk/wiki/How-can-i-change-my-Language%3F)
+   * [Low Specification Config](https://github.com/RRHelpSquad/Helpdesk/wiki/Low-Specification-Config)
+   * [Change Keybinds Outside of the Game](https://github.com/RRHelpSquad/Helpdesk/wiki/Change-Keybinds-Outside-of-the-Game)

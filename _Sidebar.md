@@ -1,0 +1,1 @@
+* [Realm Royale Requirements](https://github.com/RRHelpSquad/Helpdesk/wiki/Realm-Royale-Requirements)

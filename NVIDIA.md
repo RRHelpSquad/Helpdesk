@@ -9,6 +9,7 @@
 **2. Click on “Drivers”**
 
 **3. You should see:**
+
  ![](https://i.imgur.com/QKE4Aim.png)
 
  _**3.1. If not, then click on “Check for Updates”**_

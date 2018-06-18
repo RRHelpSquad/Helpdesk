@@ -12,8 +12,19 @@
    * [Scanning Hard Drive for Corruptions](https://github.com/RRHelpSquad/Helpdesk/wiki/Scanning-Hard-Drive-for-Corruptions)
    * [Running the Game in Safe Mode](https://github.com/RRHelpSquad/Helpdesk/wiki/Running-The-Game-In-Safe-Mode)
    * [Running the Game in DirectX 9 Mode](https://github.com/RRHelpSquad/Helpdesk/wiki/Running-the-Game-in-DirectX-9-Mode)
+
 * [Getting Help](https://github.com/RRHelpSquad/Helpdesk/wiki/Getting-Help)
+
 * [Known Issues](https://github.com/RRHelpSquad/Helpdesk/wiki/Known-Issues)
    * [Black Screen on Launch](https://github.com/RRHelpSquad/Helpdesk/wiki/Black-Screen-on-launch)
    * [Game won't Save my Sensitivity](https://github.com/RRHelpSquad/Helpdesk/wiki/Game-won%E2%80%99t-Save-my-Sensitivity)
    * [Server is Down for Maintenance, Unable to Connect](https://github.com/RRHelpSquad/Helpdesk/wiki/Server-is-Down-for-Maintenance,-Unable-to-Connect)
+   * [Game Security Violation](https://github.com/RRHelpSquad/Helpdesk/wiki/Game-Security-Violation)
+   * [Game Freezes](https://github.com/RRHelpSquad/Helpdesk/wiki/Game-Freezes)
+   * [Untrusted System File](https://github.com/RRHelpSquad/Helpdesk/wiki/Untrusted-System-File)
+
+*[F.A.Q.](https://github.com/RRHelpSquad/Helpdesk/wiki/F.A.Q.)
+   *[How can i see my FPS?](https://github.com/RRHelpSquad/Helpdesk/wiki/How-can-i-see-my-FPS%3F)
+   *[How can i change my Language?](https://github.com/RRHelpSquad/Helpdesk/wiki/How-can-i-change-my-Language%3F)
+   *[Low Specification Config](https://github.com/RRHelpSquad/Helpdesk/wiki/Low-Specification-Config)
+   *[Change Keybinds Outside of the Game](https://github.com/RRHelpSquad/Helpdesk/wiki/Change-Keybinds-Outside-of-the-Game)

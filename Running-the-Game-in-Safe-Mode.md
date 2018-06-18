@@ -1,5 +1,5 @@
 
-Try and see running the game in safe mode will fix you issue:
+Try and see if running the game in safe mode will fix your issue:
 
 **1. Go to Steam**
 

@@ -1,5 +1,5 @@
 
-Sometimes files can get corrupted for no apparent reason. Verifying ensure that no game files is corrupted or missing, to verify game cache simply do the following:
+Sometimes files can get corrupted for no apparent reason. Verifying ensures that no game files are corrupted or missing. To verify game cache simply do the following:
 
 **1. Open Steam**
 

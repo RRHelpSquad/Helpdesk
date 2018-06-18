@@ -6,6 +6,6 @@ If you are still having issues after doing the known troubleshooting steps you m
 * **A Screenshot of the error or video**
 * **Log File(Documents\My Games\paladinsroyale\RealmGame\Logs)**
 * **EasyAntiCheat Log File(%appdata%/EasyAntiCheat)**
-* **Press Win+R and type %appdata% then navigate to EasyAntiCheat**
+  * **Press Win+R and type %appdata% then navigate to EasyAntiCheat**
 * **Game Logs(Steam/steamapps/common/Realm Royale/Binaries/Logs)**
 

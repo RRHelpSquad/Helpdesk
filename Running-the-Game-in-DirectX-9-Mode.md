@@ -14,4 +14,5 @@ Try and see running the game in DirectX 9 Mode will fix you issue
 
 **7. Press “OK”**
 
-**`If this doesn’t fix the problem, remove the stuff added and carry on to the next section “Getting Help”`**
+
+**If the above doesn’t work please follow the guideline for [getting help here](https://github.com/RRHelpSquad/Helpdesk/wiki/Getting-Help).**

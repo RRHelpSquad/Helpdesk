@@ -16,3 +16,5 @@
  _**3.2. If you don’t see “Express Installation” or “Custom Installation” after checking for updates, carry on to next section “Scanning Hard Drive for corruptions”**_
 
  _**3.3. Click on Express Installation or Custom Installation depending on personal preference**_
+
+**`Once you’re done with updating your driver please restart your PC and see if this fixed your issue. If not carry on to next section.`**

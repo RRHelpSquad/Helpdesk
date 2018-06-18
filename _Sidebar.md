@@ -9,3 +9,4 @@
       * [NVIDIA](https://github.com/RRHelpSquad/Helpdesk/wiki/NVIDIA) 
       * [AMD](https://github.com/RRHelpSquad/Helpdesk/wiki/AMD)
       * [Intel](https://github.com/RRHelpSquad/Helpdesk/wiki/Intel)
+   * [Scanning Hard Drive for Corruptions](https://github.com/RRHelpSquad/Helpdesk/wiki/Scanning-Hard-Drive-for-Corruptions)

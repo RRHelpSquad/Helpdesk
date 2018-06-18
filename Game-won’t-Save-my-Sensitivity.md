@@ -12,7 +12,7 @@ To fix this issue, follow the steps below:
 
 **6. Click on “Config”**
 
-**7. Open “RealmInput.ini” in notepad++ or other text editing software**
+**7. Open “RealmInput.ini” in Notepad++ or other text editing software**
 
 _7.1. Look for the line: “MouseSensitivity=”_
 

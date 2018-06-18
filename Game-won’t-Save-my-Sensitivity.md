@@ -1,6 +1,6 @@
 To fix this issue, follow the steps below: 
 
-**1. Open File explore**
+**1. Open File Explorer**
 
 **2. Navigate to “My Documents”**
 
